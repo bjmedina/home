@@ -1,14 +1,16 @@
 ---
-title: Blog
-permalink: /blog/
-categories: Personal
+title: CV
+permalink: /cv/
+categories: Experience
 ---
 
-**blog posts**
+Here's my [cv](https://bjmedina.github.io/images/pdf/bjm_cv.pdf).
+
+**Experiences**
 
 <div class="content list">
 
-  {% for post in site.categories.Personal %}
+  {% for post in site.categories.Experience %}
     <div class="list-item">
       <p class="list-post-title">
         <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a>

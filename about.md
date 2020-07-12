@@ -9,16 +9,17 @@ permalink: /about/
 </center></figure>
 
 
-My name is Bryan Medina, an undergrad in Computer Science and Mathematics at the University of Central Florida working with Josh McDermott in the [Lab for Computational Audition](http://mcdermottlab.mit.edu/) at MIT.
-If you want to learn more about me, check out my [CV](http://bjmedina.github.io/images/pdf/bjm_cv.pdf).
+My name is Bryan Medina, an undergrad in Computer Science and Mathematics at the [University of Central Florida](https://www.ucf.edu/) working with [Josh McDermott](https://web.mit.edu/jhm/www/) in the [Lab for Computational Audition](http://mcdermottlab.mit.edu/) at [MIT](http://web.mit.edu/).
+If you want to learn more about me, check out my [CV](/cv).
 
 
 As far as my research interests go, I am very interested in understanding the neural mechanisms that underlie human perception, especially of sound. Currently, I am studying the viability of deep neural networks as a normative model for pitch perception.
 
-Aside from my research seeking out the brain processes necessary for the human experience, I enjoy biking, cooking new recipes, and playing a number of instruments (typically alto sax or electric guitar). I also find pleasure spending tons of money on my [record collection](https://www.discogs.com/user/bj_medina/collection).
+Aside from my research, I also find much joy in giving back to my community. As someone who is a latino first generation student, I believe that it is important that I share my successes with those who look and talk like I do. I've volunteered my time teaching and talking to students not only on campus, but in the community, on how to succeed as a underrepresented minority in STEM. At the moment, I am the Vice President of the Cognitive Sciences Club @ UCF, a club I co-founded, and Vice President of the UCF SACNAS chapter, organizations that strive to make opportunities available to all.
 
-**Music**
+On my off-time, I enjoy biking, cooking new recipes, and playing a number of instruments (typically alto sax or electric guitar). I also find pleasure spending tons of money on my [record collection](https://www.discogs.com/user/bj_medina/collection).
 
-Here is a collection of blues songs that I really enjoy (and couldn't believe were blues tracks at first).
+
+Here is a collection of blues songs that I really enjoy.
 
 <iframe src="https://open.spotify.com/embed/playlist/3CritZTZGaPIYAUaswTGFs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
