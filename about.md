@@ -19,6 +19,6 @@ Aside from my research seeking out the brain processes necessary for the human e
 
 **Music**
 
-my spotify playlist
+Here is a collection of blues songs that I really enjoy (and couldn't believe were blues tracks at first).
 
 <iframe src="https://open.spotify.com/embed/playlist/3CritZTZGaPIYAUaswTGFs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
