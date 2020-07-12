@@ -3,7 +3,7 @@
 # # # # # # # #
 
 # Basic
-name:               "Bryan Medina"
+name:               "bryan medina"
 title:              "bryan's personal page"
 description:        "minimal personal page for bryan medina. feel free to check out project, small blogs and basic information about me"
 
@@ -25,6 +25,8 @@ nav:
     href:           "/about"
   - name:           "blog"
     href:           "/blog"
+  - name:           "contact"
+    href:           "/contact"
 
 # Sass
 sass:
