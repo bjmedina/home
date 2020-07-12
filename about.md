@@ -5,13 +5,12 @@ permalink: /about/
 
 
 <figure><center>
-  <img width="300" src="/images/titipata.jpg" data-action="zoom"/>
+  <img width="300" src="/images/bryan.png" data-action="zoom"/>
 </center></figure>
 
 
-My name is Titipat Achakulvisut, a PhD student in the Department of
-Bioengineering at University of Pennsylvania working with [Konrad Kording](http://kordinglab.com/).
-You can find out more info about me in my [CV](http://titipata.github.io/images/pdf/Titipat_CV.pdf)
+My name is Bryan Medina, an undergrad student at the University of Central Florida working with Josh McDermott in the [Lab for Computational Audition][http://mcdermottlab.mit.edu/] at MIT.
+Here's more about me [CV](http://titipata.github.io/images/pdf/bjm_cv.pdf)
 
 
 I collaborate with [Daniel Acuna](http://www.scienceofscience.org/) in a relatively new field known as Science of Science.
