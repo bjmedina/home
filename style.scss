@@ -239,7 +239,7 @@ img {
   display: block;
   max-width: 100%;
   margin: 0 0 1rem;
-  border-radius: 5px;
+  border-radius: 4px;
   margin-bottom: 1em
 }
 
@@ -316,7 +316,7 @@ tbody tr:nth-child(odd) th {
     margin-bottom: 1.2em;
 
     a {
-      color: #aaa;
+      color: #000;
       font-weight: 300;
       text-transform: lowercase;
       -webkit-transition: all .2s ease;
@@ -325,7 +325,7 @@ tbody tr:nth-child(odd) th {
 
       &:hover,
       &:focus {
-        color: #333;
+        color: #aaaa;
         text-decoration: none;
       }
 
@@ -359,11 +359,11 @@ tbody tr:nth-child(odd) th {
     margin-bottom: .25rem;
 
     a {
-      color: #333;
+      color: #068bd2;
 
       &:hover,
       &:focus {
-        text-decoration: none;
+          text-decoration: underline;
       }
     }
   }
@@ -376,7 +376,7 @@ tbody tr:nth-child(odd) th {
 
 .projects-list {
   a {
-    color: #333;
+    color: #9e82e5;
   }
 }
 

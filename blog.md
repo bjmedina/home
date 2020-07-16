@@ -4,7 +4,7 @@ permalink: /blog/
 categories: Personal
 ---
 
-**blog posts**
+**Blog**
 
 <div class="content list">
 
