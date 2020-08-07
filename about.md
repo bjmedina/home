@@ -9,7 +9,7 @@ permalink: /about/
 </center></figure>
 
 
-My name is Bryan Medina, an undergrad in Computer Science and Mathematics at the [University of Central Florida](https://www.ucf.edu/) working with [Josh McDermott](https://web.mit.edu/jhm/www/) in the [Lab for Computational Audition](http://mcdermottlab.mit.edu/) at [MIT](http://web.mit.edu/).
+My name is Bryan Medina, an undergrad studying Computer Science, Cognitive Sciences, and Mathematics at the [University of Central Florida](https://www.ucf.edu/) working in the [Lab for Computational Audition](http://mcdermottlab.mit.edu/) at [MIT](http://web.mit.edu/).
 If you want to learn more about me, check out my [CV](/cv).
 
 
