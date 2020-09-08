@@ -4,7 +4,7 @@ permalink: /contact/
 ---
 
 <figure><center>
-  <img width="500" src="/images/music_brain.png" data-action="zoom"/>
+  <img width="500" src="" data-action="zoom"/>
 </center></figure>
 
 If you'd like to reach out to me, please email me at:
