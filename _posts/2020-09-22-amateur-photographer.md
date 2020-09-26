@@ -20,7 +20,6 @@ i am still learning but here are some shots on my fujifilm x100t.
 ![](/images/blog/amateur_1.jpeg)
 f/11, 1/4000, iso6400
 
-
 ![](/images/blog/amateur_2.jpeg)
 f/8, 1/500, iso400
 
@@ -33,7 +32,10 @@ f/7.1, 1/4000, iso2000
 ![](/images/blog/amateur_5.jpeg)
 f/8, 1/1000, iso400
 
-![](/images/blog/amateur_6.jpeg)
-f/8, 1/125, iso400
+![](/images/blog/amateur_7.jpeg)
+f/4, 1/1000, iso400
+
+![](/images/blog/amateur_8.jpeg)
+f/7.1, 1/1000, iso640
 
 ~~
