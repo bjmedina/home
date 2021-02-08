@@ -26,6 +26,3 @@ prob my fav shot tbh
 ![](/images/blog/me/me_6.jpg)
 prob my least fave editing
 
-![](/images/blog/me/me_7.jpg)
-i have brown eyes
-
