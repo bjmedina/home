@@ -1,6 +1,6 @@
 ---                                                                                                                                          
 title: self portraits
-categories: Personal
+categories: me
 
 ---
 
