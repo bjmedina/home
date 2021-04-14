@@ -4,4 +4,10 @@ permalink: /cv/
 categories: Experience
 ---
 
-<embed src="https://bjmedina.github.io/images/pdf/bjm_cv.pdf" type="application/pdf" width="900" height="800" />
+<figure><center>
+  <img width="120" src="/images/Purkinje_cell_by_Cajal.png" data-action="zoom"/>
+</center></figure>
+
+Here's my [cv](https://bjmedina.github.io/images/pdf/bjm_cv.pdf).
+
+
