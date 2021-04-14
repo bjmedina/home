@@ -5,7 +5,7 @@ permalink: /about/
 
 
 <figure><center>
-  <img width="400" src="/images/medina.jpg" data-action="zoom"/>
+  <img width="400" src="/images/medina_2.jpg" data-action="zoom"/>
 </center></figure>
 
 
