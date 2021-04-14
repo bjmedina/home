@@ -9,7 +9,7 @@ permalink: /about/
 </center></figure>
 
 
-My name is Bryan Medina, an undergrad studying Computer Science, Cognitive Sciences, and Mathematics at the [University of Central Florida](https://www.ucf.edu/) working in the [Lab for Computational Audition](http://mcdermottlab.mit.edu/) at [MIT](http://web.mit.edu/). Before that, I worked with [Dr. Rob Kass](https://www.stat.cmu.edu/~kass/) at [Carnegie Mellon University](https://www.cmu.edu/). If you want to learn more about me, check out my [CV](/cv).
+My name is Bryan Medina, an incoming Ph.D. student and NSF Graduate Research Fellow in Brain and Cognitive Sciences at [MIT](http://web.mit.edu/). Currently working in the [Lab for Computational Audition](http://mcdermottlab.mit.edu/). Before that, I was an undergrad studying Computer Science, Cognitive Sciences, and Mathematics at the [University of Central Florida](https://www.ucf.edu/). Before that, I worked with [Dr. Rob Kass](https://www.stat.cmu.edu/~kass/) at [Carnegie Mellon University](https://www.cmu.edu/). If you want to learn more about me, check out my [CV](/cv).
 
 
 As far as my research interests go, I am very interested in understanding the neural mechanisms that underlie human perception, especially of sound. Currently, I am studying the viability of deep neural networks as a normative model for pitch perception.
